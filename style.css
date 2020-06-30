@@ -103,7 +103,7 @@ p {
 
 .intro {
     height: 750px;
-    background: url("../img/intro-bg.jpg");
+    background: url(/img/intro-bg.jpg);
     background-color: #2a2e48;
     background-position: center;
     background-repeat: no-repeat;
